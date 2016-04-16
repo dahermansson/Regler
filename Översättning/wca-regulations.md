@@ -84,9 +84,9 @@ Notera: Eftersom artiklars och reglers nummer inte ändras när artiklar och reg
 - 2h) Tävlande måste vara fullt påklädd medan den befinner sig på platsen för tävlingen. På WCA-delegatens bestämmelse, tävlande kan bli diskvalificerade för bärande av olämplig klädsel. 
 - 2i) När de tävlar, får tävlande inte använda elektronik eller ljudutrustning (t.ex mobiltelefon, MP3-spelare, fickminnen, ytterligare belysning). 
 	- 2i1) Tävlande får använda icke elektroniska hjälpmedel som inte ger en orättvis fördel på WCA-delegatens bestämmelse. Det inkluderar: 
-		- 2i1a) Medicinsk/fysiska hjälpmedel burna av den tävlande (e.g glasögon, armband). Med undantag till [Regel 2i] (regulations:regulation:2i), medicinska hjälpmedel kan vara elektriska om den tävlande inte har användbara icke elektroniska alternativ (e.g. den tävlande har hörapparat eller pacemaker). 
+		- 2i1a) Medicinsk/fysiska hjälpmedel burna av den tävlande (e.g glasögon, armband). Undantag till [Regel 2i] (regulations:regulation:2i), medicinska hjälpmedel kan vara elektriska om den tävlande inte har användbara icke elektroniska alternativ (e.g. den tävlande har hörapparat eller pacemaker). 
         - 2i1b) Öronpluggar och hörselskopor (men inte elektroniskt brusreducerande hörlurar). 
-	- 2i2) Tävlande får använda kameror vid lösningsstationen på bestämmelse av WCA-delegaten, men följande restriktiner gäller från dess att försöket börjar till den tävlande slutför lösningen. Straff för att bryta mot restriktionen: diskvalificering av försöket (DNF). 
+	- 2i2) Tävlande får använda kameror vid lösningsstationen på bestämmelse av WCA-delegaten, men följande restriktioner gäller från dess att försöket börjar till den tävlande slutför lösningen. Straff för att bryta mot restriktionen: diskvalificering av försöket (DNF). 
         - 2i2a) Varje kameramonitor måste vara avstängd eller utom synhåll för den tävlande (se [Regel A5b](regulations:regulation:A5b)). 
 		- 2i2b) Den tävlande får inte interagera med (e.g. hantera, hålla, bära) någon aktiv kamera. Undantag: den tävlande får bära en kamera monterad på sitt huvud, så länge den är utanför dess synfält och det är utom allt tvivel att de inte interagerar med den (förutom att bära den). 
 - 2j) The WCA Delegate may disqualify a competitor from a specific event.
