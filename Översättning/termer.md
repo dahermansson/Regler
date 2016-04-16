@@ -8,3 +8,4 @@ Förslag till hur vanligt förekommande termer ska översättas.
 - WCA Results Team: WCAs resultatteam
 - Officials: Funktionärer   
 - at the discretion of the wca-delegate: på WCA-delegatens bestämmelse
+- solving station: lösningsstation

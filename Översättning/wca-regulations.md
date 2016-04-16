@@ -8,10 +8,10 @@
 ### WCAs Regelverk and Riktlinjer
 
 WCAs Regelverket innehåller en komplett uppsättning av Regler och gäller för alla officiella tävlingar sanktionerade av WCA. 
-WCAs Regelverket kompletteras av WCAs Riktlinjer(guidelines:top). Regelverket ska betraktas som ett komplett dokument, medans Riktlinjerna innehåller ytterligare förtydliganden och förklaringar. 
+WCAs Regelverket kompletteras av WCAs Riktlinjer(guidelines:top). Regelverket ska betraktas som ett komplett dokument, medan Riktlinjerna innehåller ytterligare förtydliganden och förklaringar. 
 
-### Formulering(?)
-Uses of the words "must", "must not", "should", "should not" and "may" match [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
+### Formulering
+Användningar av orden "måste", "får inte", "bör", "bör inte" och "kan" motsvarar [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### Information på Internet
 WCAs webbsida: [www.worldcubeassociation.org](https://www.worldcubeassociation.org/)    
@@ -22,10 +22,10 @@ WCAs Regelverk i [PDF format](link:pdf)
 Utvecklingen av WCAs Regelverk och Riktlinjer är publika [på GitHub](https://github.com/cubing/wca-documents).
 
 ### Kontakt
-För frågor och återkoppling, ta kontakt med [WCA Regelverk Kommittén (WRC)](https://www.worldcubeassociation.org/contact/wrc).
+För frågor och återkoppling, vänligen kontakta [WCAs regelverks kommitté (WRC)](https://www.worldcubeassociation.org/contact/wrc).
 
 
-## <contents> [Innehål](regulations:contents)
+## <contents> [Innehåll](regulations:contents)
 
 
 Notera: Eftersom artiklars och reglers nummer inte ändras när artiklar och regler tas bort kan det saknas nummer i numreringen.
@@ -35,24 +35,24 @@ Notera: Eftersom artiklars och reglers nummer inte ändras när artiklar och reg
 
 ## <article-1><officials><officials> Artikel 1: Funktionärer
 
-- 1a) En tävling måste ha en WCA Delegat och ett organisationsteam (bestående av en eller flera personer) med följande roller: domare, blandare och resultatsammanställare. 
+- 1a) En tävling måste ha en WCA-delegat och ett organisationsteam (bestående av en eller flera personer) med följande roller: domare, blandare och resultatsammanställare. 
 - 1b) Organisationsteamet för en tävling är ansvarig för logistik före, under och efter tävlingen. 
-- 1c) WCA delegaten får delegera ansvar till någon annan medlem i organisationsteamet, men är yttersta ansvarig för hur dessa ansvarsområden utförs. WCA delegaten för en tävling är ansvarig för: 
-    - 1c1) Rapportera till WCAs styrelsen hur WCAs Regelverk har efterföljts under tävlingen, övergripande om tävlingen, och alla inträffade incidenter. Rapporten måste vara inlämnad till WCAs styrelse inom en vecka från tävlingens slut. 
-    - 1c3) Skicka tävlingens resultat till WCAs Resultatteam inom en vecka från tävlingens slut. 
+- 1c) WCA-delegaten får delegera ansvar till någon annan medlem i organisationsteamet, men är yttersta ansvarig för hur dessa ansvarsområden utförs. WCA-delegaten för en tävling är ansvarig för: 
+    - 1c1) Rapportera till WCAs styrelse hur WCAs regelverk har efterföljts under tävlingen, övergripande om tävlingen, och alla inträffade incidenter. Rapporten måste vara inlämnad till WCAs styrelse inom en vecka från tävlingens slut. 
+    - 1c3) Skicka tävlingens resultat till WCAs resultatteam inom en vecka från tävlingens slut. 
         - 1c3a) Alla använda blandningar under tävlingen måste skickas med resultatet för tävlingen. 
         - 1c3b) Blandningarna ska vara markerade med evenemang, runda, och grupp de användes i. 
     - 1c4) Skicka justeringar av tävlingens resultat till WCAs styrelse. 
     - 1c5) Rådfråga andra funktionärer när så krävs. 
     - 1c6) Godkänna alla evenemang och rundors format för en tävling, innan tävlingen startat, och ändringar om det är nödvändigt under tävlingen. 
-    - 1c7) Beslut om att diskvalificera tävlanden under tävlingen. 
+    - 1c7) Beslut om att diskvalificera tävlande under tävlingen. 
     - 1c8) Tillhandahålla blandningar. 
     - 1c9) Beslut om ändringar i schemalagda tider för rundor. Om en sådan ändring måste ske, ska en tydlig annonsering göras till alla tävlande. 
     - 1c10) Se till att en kopia av WCAs Regelverk finns tillgängligt på tävlingen. 
 - 1e) Varje evenemang måste ha en eller flera domare. 
     - 1e1) En domare är ansvarig för att utförandet av ett evenemang. 
-        - 1e1a) En domare får döma flera tävlanden samtidigt efter bedömning av WCA delegaten, så länge som domaren kan garantera att WCAs Regelverk efterföljs hela tiden. 
-    - 1e2) Alla tävlande måste vara tillgänglig för att döma. Om döma krävs, kan en tävlande bli undantagen bara om den har ett legitimt skäl (t.ex vara obekant med pusslet), efter bedömning av WCA delegaten. Straff: diskvalificering från tävlingen (se [Regul 2k](regulations:regulation:2k)). 
+        - 1e1a) En domare får döma flera tävlande samtidigt på WCA-delegatens bestämmelse, så länge som domaren kan garantera att WCAs regelverk efterföljs hela tiden. 
+    - 1e2) Alla tävlande måste vara tillgänglig för att döma. Om döma krävs, kan en tävlande bli undantagen bara om den har ett legitimt skäl (t.ex vara obekant med pusslet), på WCA-delegatens bestämmelse. Straff: diskvalificering från tävlingen (se [Regel 2k](regulations:regulation:2k)). 
 - 1f) Varje evenemang måste a en eller flera blandar. Undantag: Minsta antal drag. 
     - 1f1) En blandare applicerar blandningar för att preparera pussel för lösningsförsök. 
     - 1f2) Alla tävlande måste vara tillgängliga för att blanda. Om blandare krävs, kan en tävlande bli undantagen bara om den har ett legitimt skäl (t.ex vara obekant med blandningsnotation), efter bedömning av WCA delegaten. Straff: diskvalificering från tävlingen (se [Regel 2k](regulations:regulation:2k)).  
@@ -62,34 +62,33 @@ Notera: Eftersom artiklars och reglers nummer inte ändras när artiklar och reg
 - 1h) Tävlande i samma runda för ett evenemang kan bli indelade i grupper. 
     - 1h1) Blandare och domare för en runda bör inte blanda/döma tävlande i deras egna grupp innan de har avslutat alla sina lösningsförsök i rundan. De får blanda/döma för tävlande i deras egna grupp efter bedömning av WCA delegaten, men organisationsteamet måste försäkra att blandare och domare inte kan se blandningar för deras lösningsförslag de inte har gjort än. 
 - 1j) Alla funktionärer får delta i tävlingen. 
-- 1k) Funktionärer får ha flera roller (t.ex organisationsteam, WCA Delegat, domare, resultatsammanställare, blandare). 
+- 1k) Funktionärer får ha flera roller (t.ex organisationsteam, WCA-delegat, domare, resultatsammanställare, blandare). 
 
 
 ## <article-2><competitors><competitors> Artikel 2: Tävlande
 
-- 2a) En person får delta i en WCA tävling om den: 
-	- 2a1) Följer WCAs Regleverk. 
+- 2a) En person får delta i en WCA-tävling om den: 
+	- 2a1) Följer WCAs regelverk. 
 	- 2a2) Uppfyller tävlingens krav, som måste annonserat tydligt innan tävlingen. 
     - 2a3) Inte är avstängd av WCAs styrelse. 
 - 2b) Tävlande under 18 år måste ha medgivande från deras förälder(ar)/målsman för att registrera sig och tävla.  
 - 2c) Tävlande registreras genom att tillhandahålla all information som krävs av organisationsteamet (inkluderat, namn, land, födelsedatum, kön, kontakt information, valda evenemang). 
 	- 2c1) En tävlande är inte berättigad att tävla utan en komplett registrering, bestämd av organisationsteamet. 
 - 2d) Tävlandes namn, land, kön och tävlingsresultat anses som publik information. All annan information anses vara konfidentiell, och får inte utlämnas till utomstående organisationer/personer utan medgivande från den tävlande. 
-- 2e) Tävlande måste representera ett land som de har medborgarskap i. WCA delegaten bör verifiera medborgarskap med hjälp av handlingar (t.ex ett pass). Om en tävlande inte kan styrka medborgarskap för det land den har registrerat sig, kan tävlande bli diskvalificerad retroaktivt och/eller avstängd, efter bedömning av WCAs styrelse. 
+- 2e) Tävlande måste representera ett land som de har medborgarskap i. WCA-delegaten bör verifiera medborgarskap med hjälp av handlingar (t.ex ett pass). Om en tävlande inte kan styrka medborgarskap för det land den har registrerat sig, kan tävlande bli diskvalificerad retroaktivt och/eller avstängd, på WCA-styrelsens bestämmelse. 
 	- 2e1) Berättigade länder är definierade av Wikipedias artikel "List över Länder" TODO:("UN member states and observer states" and "Other states").
     - 2e2) Tävlande med uppdaterade medborgarskap får ändra sitt representerade land vid deras första tävling under kalenderåret. 
 - 2f) Tävlande måste följa platsen för tävlingens regler och uppträda på ett hänsynsfullt sätt. 
 - 2g) Tävlande måste förbli tyst när den är inom utsedda tävlings arenan. Prata är tillåtet, men måste hållas på en resonlig nivå och på avstånd från tävlande som aktivt tävlar. 
-	- 2g3) Tävlande i tävlingsområde får inte kommunicera med varandra om blandningar av pussel till pågående runda. Straff: Diskvalificering av den tävlande, efter bedömning av WCA delegaten. 
-- 2h) Tävlande måste vara fullt påklädd medan den befinner sig på platsen för tävlingen. Efter bedömning av WCA delegaten, tävlande kan bli diskvalificerade för bärande av olämplig klädsel. 
-- 2h) När de tävlar, får tävlande inte använda elektronik eller ljudutrustning (t.ex mobiltelefon, MP3-spelare, fickminnen, ytterligare belysning). 
-- 2i) While competing, competitors must not use electronics or audio equipment (e.g. cell phones, MP3 players, dictaphones, additional lighting).
-    - 2i1) Competitors may use non-electronic aids that do not give an unfair advantage, at the discretion of the WCA Delegate. This includes:
-        - 2i1a) Medical/physical aids worn by the competitor (e.g. glasses, wrist brace). As an exception to [Regulation 2i](regulations:regulation:2i), medical aids may be electronic if the competitor does not have comfortable non-electronic alternatives (e.g. if competitor has a personal hearing aid or pacemaker).
-        - 2i1b) Earplugs and earmuffs (but not electronic noise-cancelling headphones).
-    - 2i2) Competitors may use cameras at the solving station at the discretion of the WCA Delegate, but the following restrictions apply from the beginning of the attempt until the competitor stops the solve. Penalty for breaking a restriction: disqualification of the attempt (DNF).
-        - 2i2a) Each camera monitor must be blank or out of sight of the competitor (see [Regulation A5b](regulations:regulation:A5b)).
-        - 2i2b) The competitor must not interact with (e.g. operate, hold, wear) any active camera. Exception: the competitor may wear a camera mounted on their head, as long as it is out of their sight and it is clear that they are not interacting with it (apart from wearing it).
+	- 2g3) Tävlande i tävlingsområde får inte kommunicera med varandra om blandningar av pussel till pågående runda. Straff: Diskvalificering av den tävlande, efter bedömning av WCA-delegaten. 
+- 2h) Tävlande måste vara fullt påklädd medan den befinner sig på platsen för tävlingen. På WCA-delegatens bestämmelse, tävlande kan bli diskvalificerade för bärande av olämplig klädsel. 
+- 2i) När de tävlar, får tävlande inte använda elektronik eller ljudutrustning (t.ex mobiltelefon, MP3-spelare, fickminnen, ytterligare belysning). 
+	-2i1) Tävlande får använda icke elektroniska hjälpmedel som inte ger en orättvis fördel på WCA-delegatens bestämmelse. Det inkluderar: 
+		- 2i1a) Medicinsk/fysiska hjälpmedel burna av den tävlande (e.g glasögon, armband). Med undantag till [Regel 2i] (regulations:regulation:2i), medicinska hjälpmedel kan vara elektriska om den tävlande inte har användbara icke elektroniska alternativ (e.g. den tävlande har hörapparat eller pacemaker). 
+        - 2i1b) Öronpluggar och hörselskopor (men inte elektroniskt brusreducerande hörlurar). 
+	- 2i2) Tävlande får använda kameror vid lösningsstationen på bestämmelse av WCA-delegaten, men följande restriktiner gäller från dess att försöket börjar till den tävlande slutför lösningen. Straff för att bryta mot restriktionen: diskvalificering av försöket (DNF). 
+        - 2i2a) Varje kameramonitor måste vara avstängd eller utom synhåll för den tävlande (se [Regel A5b](regulations:regulation:A5b)). 
+		- 2i2b) Den tävlande får inte interagera med (e.g. hantera, hålla, bära) någon aktiv kamera. Undantag: den tävlande får bära en kamera monterad på sitt huvud, så länge den är utanför dess synfält och det är utom allt tvivel att de inte interagerar med den (förutom att bära den). 
 - 2j) The WCA Delegate may disqualify a competitor from a specific event.
     - 2j1) If a competitor is disqualified from an event for any reason, they are not eligible for any more attempts in the event.
     - 2j2) If a competitor is disqualified during the course of an event, their earlier results remain valid. Exception: cheating or defrauding (see [Regulation 2k2a](regulations:regulation:2k2a)).
