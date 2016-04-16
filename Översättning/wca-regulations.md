@@ -83,7 +83,7 @@ Notera: Eftersom artiklars och reglers nummer inte ändras när artiklar och reg
 	- 2g3) Tävlande i tävlingsområde får inte kommunicera med varandra om blandningar av pussel till pågående runda. Straff: Diskvalificering av den tävlande, efter bedömning av WCA-delegaten. 
 - 2h) Tävlande måste vara fullt påklädd medan den befinner sig på platsen för tävlingen. På WCA-delegatens bestämmelse, tävlande kan bli diskvalificerade för bärande av olämplig klädsel. 
 - 2i) När de tävlar, får tävlande inte använda elektronik eller ljudutrustning (t.ex mobiltelefon, MP3-spelare, fickminnen, ytterligare belysning). 
-	-2i1) Tävlande får använda icke elektroniska hjälpmedel som inte ger en orättvis fördel på WCA-delegatens bestämmelse. Det inkluderar: 
+	- 2i1) Tävlande får använda icke elektroniska hjälpmedel som inte ger en orättvis fördel på WCA-delegatens bestämmelse. Det inkluderar: 
 		- 2i1a) Medicinsk/fysiska hjälpmedel burna av den tävlande (e.g glasögon, armband). Med undantag till [Regel 2i] (regulations:regulation:2i), medicinska hjälpmedel kan vara elektriska om den tävlande inte har användbara icke elektroniska alternativ (e.g. den tävlande har hörapparat eller pacemaker). 
         - 2i1b) Öronpluggar och hörselskopor (men inte elektroniskt brusreducerande hörlurar). 
 	- 2i2) Tävlande får använda kameror vid lösningsstationen på bestämmelse av WCA-delegaten, men följande restriktiner gäller från dess att försöket börjar till den tävlande slutför lösningen. Straff för att bryta mot restriktionen: diskvalificering av försöket (DNF). 
